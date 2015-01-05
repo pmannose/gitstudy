@@ -6,4 +6,4 @@ These are the steps that need to be followed:
 - focus
 - win
 
-## the are the next sets of rules
+## these are the next sets of rules
